@@ -1,0 +1,17 @@
+{
+	id: "d95c0481-7d78-34e9-a7b0-262edaa6911e"
+	type: "player"
+	player_name: "Matiasraptor"
+	ranks: {
+		d95c0481-7d78-34e9-a7b0-262edaa6911e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Matiasraptor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DF59FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

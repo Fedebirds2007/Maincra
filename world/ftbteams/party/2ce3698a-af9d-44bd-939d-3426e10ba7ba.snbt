@@ -1,0 +1,20 @@
+{
+	id: "2ce3698a-af9d-44bd-939d-3426e10ba7ba"
+	type: "party"
+	owner: "9e0386b1-b812-38e3-bf9a-e036647ba2a2"
+	ranks: {
+		9e0386b1-b812-38e3-bf9a-e036647ba2a2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pejeriles"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9559FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732742749664L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"neftalito\"}]}" }
+		{ from: "9e0386b1-b812-38e3-bf9a-e036647ba2a2", date: 1732742784113L, text: "{\"text\":\"add\"}" }
+	]
+	extra: { }
+}

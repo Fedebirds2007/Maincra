@@ -1,0 +1,17 @@
+{
+	id: "3032fd77-7953-34a0-b4f4-99e198098be3"
+	type: "player"
+	player_name: "Melo_725"
+	ranks: {
+		3032fd77-7953-34a0-b4f4-99e198098be3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Melo_725"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "23f3a6df-499c-4a74-9fb5-ce466236284d"
+	type: "party"
+	owner: "801e913d-e1c0-30b2-a256-2985ec112f0a"
+	ranks: {
+		801e913d-e1c0-30b2-a256-2985ec112f0a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Las putitas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF70"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1732389195809L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Fedebirds2007\"}]}" }]
+	extra: { }
+}

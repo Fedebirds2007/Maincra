@@ -1,0 +1,15 @@
+{
+	id: "9e0386b1-b812-38e3-bf9a-e036647ba2a2"
+	type: "player"
+	player_name: "neftalito"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "neftalito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8E59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

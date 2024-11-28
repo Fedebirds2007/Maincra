@@ -1,0 +1,15 @@
+{
+	id: "801e913d-e1c0-30b2-a256-2985ec112f0a"
+	type: "player"
+	player_name: "Fedebirds2007"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Fedebirds2007"
+		"ftbteams:description": ""
+		"ftbteams:color": "#64FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
